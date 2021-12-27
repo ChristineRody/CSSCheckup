@@ -1,0 +1,33 @@
+body {
+    background-color: paleturquoise;
+}
+
+.topstay {
+    text-align: center;
+    color: navy;
+    position: relative;
+}
+
+.determine {
+    margin-top: 20px;
+    border: solid 2px rebeccapurple;
+}
+
+#questions {
+    margin: 3px 5px 3px 5px;
+    border-style: solid;
+    border-color: rebeccapurple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+}
+
+.examples img {
+    margin: 0 500px 0 500px;
+    padding: 2em;
+    width: 50em;
+    height: 50em;
+}
