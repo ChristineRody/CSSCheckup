@@ -2,10 +2,10 @@ body {
     background-color: paleturquoise;
 }
 
-.topstay {
+header {
+    position: relative;
     text-align: center;
     color: navy;
-    position: relative;
 }
 
 .determine {
